@@ -54,8 +54,8 @@ select acs_object_type__create_type(
         'clipboard_id',
         'clipboard',
         'f',
-        'clipboard__title',
-        null
+        null,
+        'clipboard__title'
 );
 
 
